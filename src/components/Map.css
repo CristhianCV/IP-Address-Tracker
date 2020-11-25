@@ -1,0 +1,14 @@
+.map__container {
+  height: 65vh;
+  width: 100%;
+}
+
+#mapid {
+  height: 100%;
+}
+
+@media (max-width: 996px) {
+  .map__container {
+    height: 60vh;
+  }
+}
