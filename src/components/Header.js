@@ -12,7 +12,7 @@ function Header({ changeLocation }) {
     if (address.trim() !== "") {
       axios
         .get(
-          `https://cors-anywhere.herokuapp.com/https://geo.ipify.org/api/v1?apiKey=at_Qihz0duRRHIITcWSmJ3nqLSh8Np7t&ipAddress=${address}`,
+          `https://geo.ipify.org/api/v1?apiKey=at_Qihz0duRRHIITcWSmJ3nqLSh8Np7t&ipAddress=${address}`,
           {
             headers: {
               "Content-Type": "application/json",
