@@ -1,6 +1,6 @@
 # IP Address Tracker 🌐
 
-> Basesd on [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
+> Based on [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
 
 IP Address Tracker responsive app
 
